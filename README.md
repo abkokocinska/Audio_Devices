@@ -9,5 +9,7 @@ utilizing object oriented programming principles, debugging and utimately, creat
 2. A Dynamic Compressor that can be used as an audio device  (VST? Still thinking about this) 
 3. Reaper or Pro Tools Automation Tool
 
+For context I am debugging and refining whatever I post, open for structural feedback. 
+
 Stay tuned for some exciting learning and the description of what I have made. 
 Thanks! 
