@@ -1,5 +1,6 @@
 # Audio_Devices
-Here is a repository of code for simple audio devices I have made. 
+Here is a repository of code for simple audio devices I have made within the scope of my nascent stage of 
+understaning in respects to object oriented programming. 
 
 Here, I will upload various files that exemplify my understanding of how to create the following devices
 utilizing object oriented programming principles, debugging and utimately, creating something simple albeit functional: 
